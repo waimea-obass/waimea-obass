@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ✨ _special_ ✨
 
 <!--
 **waimea-obass/waimea-obass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
