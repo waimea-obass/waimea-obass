@@ -1,4 +1,4 @@
-# Ollie Bass
+# Ollie
 
 _Hello_ I learn the coomputer-
 
